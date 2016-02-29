@@ -1,2 +1,2 @@
 # HelloWorld
-Sample Repository
+Sample Repository - Edited from the feature branch
